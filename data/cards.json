@@ -1,0 +1,1550 @@
+[
+  {
+    "id": "Aatrox",
+    "name": "Aatrox",
+    "title": "Quỷ Kiếm Darkin",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1465,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg"
+  },
+  {
+    "id": "Ahri",
+    "name": "Ahri",
+    "title": "Hồ Ly Chín Đuôi",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2350,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_0.jpg"
+  },
+  {
+    "id": "Akali",
+    "name": "Akali",
+    "title": "Sát Thủ Đơn Độc",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 4190,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akali_0.jpg"
+  },
+  {
+    "id": "Akshan",
+    "name": "Akshan",
+    "title": "Vệ Binh Ranh Mãnh",
+    "rarity": "R",
+    "color": 255,
+    "atk": 170,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akshan_0.jpg"
+  },
+  {
+    "id": "Alistar",
+    "name": "Alistar",
+    "title": "Quái Vật Đầu Bò",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3601,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_0.jpg"
+  },
+  {
+    "id": "Ambessa",
+    "name": "Ambessa",
+    "title": "Nữ Tướng Chiến Tranh",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 2995,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ambessa_0.jpg"
+  },
+  {
+    "id": "Amumu",
+    "name": "Amumu",
+    "title": "Xác Ướp U Sầu",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2271,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_0.jpg"
+  },
+  {
+    "id": "Anivia",
+    "name": "Anivia",
+    "title": "Phượng Hoàng Băng",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2528,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Anivia_0.jpg"
+  },
+  {
+    "id": "Annie",
+    "name": "Annie",
+    "title": "Đứa Trẻ Bóng Tối",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1460,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_0.jpg"
+  },
+  {
+    "id": "Aphelios",
+    "name": "Aphelios",
+    "title": "Song Nguyệt Chiến Binh",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 2495,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aphelios_0.jpg"
+  },
+  {
+    "id": "Ashe",
+    "name": "Ashe",
+    "title": "Cung Băng",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2213,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_0.jpg"
+  },
+  {
+    "id": "AurelionSol",
+    "name": "Aurelion Sol",
+    "title": "Ác Long Thượng Giới",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1390,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/AurelionSol_0.jpg"
+  },
+  {
+    "id": "Aurora",
+    "name": "Aurora",
+    "title": "Phù Thủy Giữa Hai Thế Giới",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2649,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aurora_0.jpg"
+  },
+  {
+    "id": "Azir",
+    "name": "Azir",
+    "title": "Hoàng Đế Sa Mạc",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1817,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Azir_0.jpg"
+  },
+  {
+    "id": "Bard",
+    "name": "Bard",
+    "title": "Ông Bụt Vũ Trụ",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1096,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Bard_0.jpg"
+  },
+  {
+    "id": "Belveth",
+    "name": "Bel'Veth",
+    "title": "Nữ Chúa Hư Không",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1316,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Belveth_0.jpg"
+  },
+  {
+    "id": "Blitzcrank",
+    "name": "Blitzcrank",
+    "title": "Người Máy Hơi Nước",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1375,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_0.jpg"
+  },
+  {
+    "id": "Brand",
+    "name": "Brand",
+    "title": "Thần Lửa",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2324,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Brand_0.jpg"
+  },
+  {
+    "id": "Braum",
+    "name": "Braum",
+    "title": "Trái Tim của Freljord",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 903,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Braum_0.jpg"
+  },
+  {
+    "id": "Briar",
+    "name": "Briar",
+    "title": "Cơn Đói Vĩnh Hằng",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3716,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Briar_0.jpg"
+  },
+  {
+    "id": "Caitlyn",
+    "name": "Caitlyn",
+    "title": "Cảnh Sát Trưởng Piltover",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3379,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_0.jpg"
+  },
+  {
+    "id": "Camille",
+    "name": "Camille",
+    "title": "Bóng Thép",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1593,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Camille_0.jpg"
+  },
+  {
+    "id": "Cassiopeia",
+    "name": "Cassiopeia",
+    "title": "Xà Nữ",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1588,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Cassiopeia_0.jpg"
+  },
+  {
+    "id": "Chogath",
+    "name": "Cho'Gath",
+    "title": "Quái Vật Hư Không",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1342,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Chogath_0.jpg"
+  },
+  {
+    "id": "Corki",
+    "name": "Corki",
+    "title": "Phi Công Quả Cảm",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 4527,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_0.jpg"
+  },
+  {
+    "id": "Darius",
+    "name": "Darius",
+    "title": "Đại Tướng Noxus",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3362,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Darius_0.jpg"
+  },
+  {
+    "id": "Diana",
+    "name": "Diana",
+    "title": "Vầng Trăng Ai Oán",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 6175,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Diana_0.jpg"
+  },
+  {
+    "id": "Draven",
+    "name": "Draven",
+    "title": "Đao Phủ Kiêu Hùng",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3106,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_0.jpg"
+  },
+  {
+    "id": "DrMundo",
+    "name": "Dr. Mundo",
+    "title": "Cuồng Nhân Xứ Zaun",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2555,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_0.jpg"
+  },
+  {
+    "id": "Ekko",
+    "name": "Ekko",
+    "title": "Cậu Bé Đảo Lộn Thời Gian",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2562,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ekko_0.jpg"
+  },
+  {
+    "id": "Elise",
+    "name": "Elise",
+    "title": "Nữ Hoàng Nhền Nhện",
+    "rarity": "R",
+    "color": 255,
+    "atk": 3049,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Elise_0.jpg"
+  },
+  {
+    "id": "Evelynn",
+    "name": "Evelynn",
+    "title": "Yêu Nữ",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2618,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Evelynn_0.jpg"
+  },
+  {
+    "id": "Ezreal",
+    "name": "Ezreal",
+    "title": "Nhà Thám Hiểm",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2973,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_0.jpg"
+  },
+  {
+    "id": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "title": "Nỗi Sợ Viễn Cổ",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1491,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fiddlesticks_0.jpg"
+  },
+  {
+    "id": "Fiora",
+    "name": "Fiora",
+    "title": "Nữ Kiếm Sư",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2610,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fiora_0.jpg"
+  },
+  {
+    "id": "Fizz",
+    "name": "Fizz",
+    "title": "Chú Cá Tinh Nghịch",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1579,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fizz_0.jpg"
+  },
+  {
+    "id": "Galio",
+    "name": "Galio",
+    "title": "Vệ Thần Khổng Lồ",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1165,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Galio_0.jpg"
+  },
+  {
+    "id": "Gangplank",
+    "name": "Gangplank",
+    "title": "Hiểm Họa Vùng Saltwater",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3667,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_0.jpg"
+  },
+  {
+    "id": "Garen",
+    "name": "Garen",
+    "title": "Sức Mạnh Của Demacia",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 3682,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_0.jpg"
+  },
+  {
+    "id": "Gnar",
+    "name": "Gnar",
+    "title": "Mắt Xích Thượng Cổ",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3483,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gnar_0.jpg"
+  },
+  {
+    "id": "Gragas",
+    "name": "Gragas",
+    "title": "Gã Bợm Rượu",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2376,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_0.jpg"
+  },
+  {
+    "id": "Graves",
+    "name": "Graves",
+    "title": "Kẻ Ngoài Vòng Pháp Luật",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2635,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Graves_0.jpg"
+  },
+  {
+    "id": "Gwen",
+    "name": "Gwen",
+    "title": "Búp Bê Ước Nguyện",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1603,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gwen_0.jpg"
+  },
+  {
+    "id": "Hecarim",
+    "name": "Hecarim",
+    "title": "Bóng Ma Chiến Tranh",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2555,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hecarim_0.jpg"
+  },
+  {
+    "id": "Heimerdinger",
+    "name": "Heimerdinger",
+    "title": "Nhà Phát Minh Lỗi Lạc",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2198,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Heimerdinger_0.jpg"
+  },
+  {
+    "id": "Hwei",
+    "name": "Hwei",
+    "title": "Họa Sĩ Vạn Cảnh",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 6454,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hwei_0.jpg"
+  },
+  {
+    "id": "Illaoi",
+    "name": "Illaoi",
+    "title": "Nữ Tu Thủy Thần",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2407,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Illaoi_0.jpg"
+  },
+  {
+    "id": "Irelia",
+    "name": "Irelia",
+    "title": "Vũ Kiếm Sư",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1518,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Irelia_0.jpg"
+  },
+  {
+    "id": "Ivern",
+    "name": "Ivern",
+    "title": "Thụ Thần Thân Thiện",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1251,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ivern_0.jpg"
+  },
+  {
+    "id": "Janna",
+    "name": "Janna",
+    "title": "Cơn Thịnh Nộ Của Bão Tố",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 4418,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Janna_0.jpg"
+  },
+  {
+    "id": "JarvanIV",
+    "name": "Jarvan IV",
+    "title": "Biểu Tượng Của Demacia",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2070,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/JarvanIV_0.jpg"
+  },
+  {
+    "id": "Jax",
+    "name": "Jax",
+    "title": "Bậc Thầy Vũ Khí",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1830,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_0.jpg"
+  },
+  {
+    "id": "Jayce",
+    "name": "Jayce",
+    "title": "Người Bảo Hộ Mai Sau",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3605,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jayce_0.jpg"
+  },
+  {
+    "id": "Jhin",
+    "name": "Jhin",
+    "title": "Nghệ Sĩ Tử Thần",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 5089,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jhin_0.jpg"
+  },
+  {
+    "id": "Jinx",
+    "name": "Jinx",
+    "title": "Khẩu Pháo Nổi Loạn",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 4059,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_0.jpg"
+  },
+  {
+    "id": "Kaisa",
+    "name": "Kai'Sa",
+    "title": "Ái Nữ Hư Không",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2601,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kaisa_0.jpg"
+  },
+  {
+    "id": "Kalista",
+    "name": "Kalista",
+    "title": "Mũi Giáo Phục Hận",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2503,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kalista_0.jpg"
+  },
+  {
+    "id": "Karma",
+    "name": "Karma",
+    "title": "Kẻ Được Khai Sáng",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 4002,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karma_0.jpg"
+  },
+  {
+    "id": "Karthus",
+    "name": "Karthus",
+    "title": "Tiếng Ru Tử Thần",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 5269,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karthus_0.jpg"
+  },
+  {
+    "id": "Kassadin",
+    "name": "Kassadin",
+    "title": "Lữ Khách Hư Không",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3707,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kassadin_0.jpg"
+  },
+  {
+    "id": "Katarina",
+    "name": "Katarina",
+    "title": "Ác Kiếm",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2911,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_0.jpg"
+  },
+  {
+    "id": "Kayle",
+    "name": "Kayle",
+    "title": "Thiên Thần Phán Quyết",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1600,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_0.jpg"
+  },
+  {
+    "id": "Kayn",
+    "name": "Kayn",
+    "title": "Tử Thần Bóng Tối",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1384,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayn_0.jpg"
+  },
+  {
+    "id": "Kennen",
+    "name": "Kennen",
+    "title": "Trái Tim Sấm Sét",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 4391,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kennen_0.jpg"
+  },
+  {
+    "id": "Khazix",
+    "name": "Kha'Zix",
+    "title": "Sát Thủ Hư Không",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2795,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Khazix_0.jpg"
+  },
+  {
+    "id": "Kindred",
+    "name": "Kindred",
+    "title": "Thợ Săn Vĩnh Hằng",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1283,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kindred_0.jpg"
+  },
+  {
+    "id": "Kled",
+    "name": "Kled",
+    "title": "Kị Sĩ Cáu Kỉnh",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2283,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kled_0.jpg"
+  },
+  {
+    "id": "KogMaw",
+    "name": "Kog'Maw",
+    "title": "Miệng Của Vực Thẳm",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2866,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_0.jpg"
+  },
+  {
+    "id": "KSante",
+    "name": "K'Sante",
+    "title": "Niềm Kiêu Hãnh của Nazumah",
+    "rarity": "R",
+    "color": 255,
+    "atk": 3207,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KSante_0.jpg"
+  },
+  {
+    "id": "Leblanc",
+    "name": "LeBlanc",
+    "title": "Kẻ Lừa Đảo",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3637,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leblanc_0.jpg"
+  },
+  {
+    "id": "LeeSin",
+    "name": "Lee Sin",
+    "title": "Thầy Tu Mù",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3487,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/LeeSin_0.jpg"
+  },
+  {
+    "id": "Leona",
+    "name": "Leona",
+    "title": "Bình Minh Rực Rỡ",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 2274,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leona_0.jpg"
+  },
+  {
+    "id": "Lillia",
+    "name": "Lillia",
+    "title": "Nụ Hoa Bẽn Lẽn",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3494,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lillia_0.jpg"
+  },
+  {
+    "id": "Lissandra",
+    "name": "Lissandra",
+    "title": "Mụ Phù Thủy Băng",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2357,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lissandra_0.jpg"
+  },
+  {
+    "id": "Lucian",
+    "name": "Lucian",
+    "title": "Kẻ Thanh Trừng",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2660,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lucian_0.jpg"
+  },
+  {
+    "id": "Lulu",
+    "name": "Lulu",
+    "title": "Pháp Sư Tinh Linh",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3560,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lulu_0.jpg"
+  },
+  {
+    "id": "Lux",
+    "name": "Lux",
+    "title": "Tiểu Thư Ánh Sáng",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1380,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_0.jpg"
+  },
+  {
+    "id": "Malphite",
+    "name": "Malphite",
+    "title": "Mảnh Vỡ Thiên Thạch",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2687,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malphite_0.jpg"
+  },
+  {
+    "id": "Malzahar",
+    "name": "Malzahar",
+    "title": "Tiên Tri Hư Không",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2689,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malzahar_0.jpg"
+  },
+  {
+    "id": "Maokai",
+    "name": "Maokai",
+    "title": "Ma Cây",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2031,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Maokai_0.jpg"
+  },
+  {
+    "id": "MasterYi",
+    "name": "Master Yi",
+    "title": "Kiếm Sư Wuju",
+    "rarity": "UR",
+    "color": 16711680,
+    "atk": 6164,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MasterYi_0.jpg"
+  },
+  {
+    "id": "Mel",
+    "name": "Mel",
+    "title": "Ảnh Chiếu Của Tâm Hồn",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1203,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mel_0.jpg"
+  },
+  {
+    "id": "Milio",
+    "name": "Milio",
+    "title": "Ngọn Lửa Dịu Êm",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2191,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Milio_0.jpg"
+  },
+  {
+    "id": "MissFortune",
+    "name": "Miss Fortune",
+    "title": "Thợ Săn Tiền Thưởng",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1727,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_0.jpg"
+  },
+  {
+    "id": "MonkeyKing",
+    "name": "Ngộ Không",
+    "title": "Hầu Vương",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1500,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MonkeyKing_0.jpg"
+  },
+  {
+    "id": "Mordekaiser",
+    "name": "Mordekaiser",
+    "title": "Ác Quỷ Thiết Giáp",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3593,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mordekaiser_0.jpg"
+  },
+  {
+    "id": "Morgana",
+    "name": "Morgana",
+    "title": "Thiên Thần Sa Ngã",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1387,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Morgana_0.jpg"
+  },
+  {
+    "id": "Naafiri",
+    "name": "Naafiri",
+    "title": "Chó Săn Khát Máu",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2095,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Naafiri_0.jpg"
+  },
+  {
+    "id": "Nami",
+    "name": "Nami",
+    "title": "Nàng Tiên Cá",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2333,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nami_0.jpg"
+  },
+  {
+    "id": "Nasus",
+    "name": "Nasus",
+    "title": "Nhà Thông Thái Sa Mạc",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 4062,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nasus_0.jpg"
+  },
+  {
+    "id": "Nautilus",
+    "name": "Nautilus",
+    "title": "Khổng Lồ Biển Sâu",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3485,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nautilus_0.jpg"
+  },
+  {
+    "id": "Neeko",
+    "name": "Neeko",
+    "title": "Hóa Hình Sư Ham Học",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 4400,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Neeko_0.jpg"
+  },
+  {
+    "id": "Nidalee",
+    "name": "Nidalee",
+    "title": "Nữ Thợ Săn Hóa Thú",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2521,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_0.jpg"
+  },
+  {
+    "id": "Nilah",
+    "name": "Nilah",
+    "title": "Hiện Thân của Niềm Vui",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2626,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nilah_0.jpg"
+  },
+  {
+    "id": "Nocturne",
+    "name": "Nocturne",
+    "title": "Ác Mộng Vĩnh Cửu",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 4565,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nocturne_0.jpg"
+  },
+  {
+    "id": "Nunu",
+    "name": "Nunu & Willump",
+    "title": "Cậu Bé & Người Tuyết",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3772,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_0.jpg"
+  },
+  {
+    "id": "Olaf",
+    "name": "Olaf",
+    "title": "Chiến Binh Điên Cuồng",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3701,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Olaf_0.jpg"
+  },
+  {
+    "id": "Orianna",
+    "name": "Orianna",
+    "title": "Quý Cô Dây Cót",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1494,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Orianna_0.jpg"
+  },
+  {
+    "id": "Ornn",
+    "name": "Ornn",
+    "title": "Ngọn Lửa Khởi Nguyên",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1032,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ornn_0.jpg"
+  },
+  {
+    "id": "Pantheon",
+    "name": "Pantheon",
+    "title": "Mũi Giáo Bất Diệt",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2872,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pantheon_0.jpg"
+  },
+  {
+    "id": "Poppy",
+    "name": "Poppy",
+    "title": "Người Giữ Búa",
+    "rarity": "R",
+    "color": 255,
+    "atk": 1702,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Poppy_0.jpg"
+  },
+  {
+    "id": "Pyke",
+    "name": "Pyke",
+    "title": "Sát Thủ Vùng Nước Đỏ",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2226,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pyke_0.jpg"
+  },
+  {
+    "id": "Qiyana",
+    "name": "Qiyana",
+    "title": "Nữ Hoàng Nguyên Tố",
+    "rarity": "R",
+    "color": 255,
+    "atk": 1045,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Qiyana_0.jpg"
+  },
+  {
+    "id": "Quinn",
+    "name": "Quinn",
+    "title": "Đôi Cánh Demacia",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3459,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Quinn_0.jpg"
+  },
+  {
+    "id": "Rakan",
+    "name": "Rakan",
+    "title": "Anh Chàng Quyến Rũ",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1482,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rakan_0.jpg"
+  },
+  {
+    "id": "Rammus",
+    "name": "Rammus",
+    "title": "Tê Tê Gai",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2019,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rammus_0.jpg"
+  },
+  {
+    "id": "RekSai",
+    "name": "Rek'Sai",
+    "title": "Nấm Mồ Hư Không",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2316,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/RekSai_0.jpg"
+  },
+  {
+    "id": "Rell",
+    "name": "Rell",
+    "title": "Nữ Kỵ Sĩ Thép",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 373,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rell_0.jpg"
+  },
+  {
+    "id": "Renata",
+    "name": "Renata Glasc",
+    "title": "Bà Trùm Thành Zaun",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1551,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renata_0.jpg"
+  },
+  {
+    "id": "Renekton",
+    "name": "Renekton",
+    "title": "Đồ Tể Sa Mạc",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1432,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_0.jpg"
+  },
+  {
+    "id": "Rengar",
+    "name": "Rengar",
+    "title": "Thú Săn Mồi Kiêu Hãnh",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3010,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rengar_0.jpg"
+  },
+  {
+    "id": "Riven",
+    "name": "Riven",
+    "title": "Kẻ Lưu Đày",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 3787,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Riven_0.jpg"
+  },
+  {
+    "id": "Rumble",
+    "name": "Rumble",
+    "title": "Hiểm Họa Cơ Khí",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2540,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rumble_0.jpg"
+  },
+  {
+    "id": "Ryze",
+    "name": "Ryze",
+    "title": "Pháp Sư Cổ Ngữ",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3944,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_0.jpg"
+  },
+  {
+    "id": "Samira",
+    "name": "Samira",
+    "title": "Hoa Hồng Sa Mạc",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3481,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Samira_0.jpg"
+  },
+  {
+    "id": "Sejuani",
+    "name": "Sejuani",
+    "title": "Cơn Thịnh Nộ Phương Bắc",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1334,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sejuani_0.jpg"
+  },
+  {
+    "id": "Senna",
+    "name": "Senna",
+    "title": "Người Cứu Chuộc",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 4231,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Senna_0.jpg"
+  },
+  {
+    "id": "Seraphine",
+    "name": "Seraphine",
+    "title": "Ca Sĩ Mộng Mơ",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 189,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Seraphine_0.jpg"
+  },
+  {
+    "id": "Sett",
+    "name": "Sett",
+    "title": "Đại Ca",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1223,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sett_0.jpg"
+  },
+  {
+    "id": "Shaco",
+    "name": "Shaco",
+    "title": "Tên Hề Quỷ",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 4568,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_0.jpg"
+  },
+  {
+    "id": "Shen",
+    "name": "Shen",
+    "title": "Mắt Hoàng Hôn",
+    "rarity": "R",
+    "color": 255,
+    "atk": 1415,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shen_0.jpg"
+  },
+  {
+    "id": "Shyvana",
+    "name": "Shyvana",
+    "title": "Long Nữ",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1517,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shyvana_0.jpg"
+  },
+  {
+    "id": "Singed",
+    "name": "Singed",
+    "title": "Dược Sĩ Điên",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3458,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_0.jpg"
+  },
+  {
+    "id": "Sion",
+    "name": "Sion",
+    "title": "Chiến Binh Bất Tử",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 2795,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sion_0.jpg"
+  },
+  {
+    "id": "Sivir",
+    "name": "Sivir",
+    "title": "Nữ Chúa Chiến Trường",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2221,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_0.jpg"
+  },
+  {
+    "id": "Skarner",
+    "name": "Skarner",
+    "title": "Thần Quyền Cổ Đại",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 4099,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Skarner_0.jpg"
+  },
+  {
+    "id": "Smolder",
+    "name": "Smolder",
+    "title": "Tiểu Hỏa Long",
+    "rarity": "R",
+    "color": 255,
+    "atk": 3074,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Smolder_0.jpg"
+  },
+  {
+    "id": "Sona",
+    "name": "Sona",
+    "title": "Đại Cầm Nữ",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1622,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_0.jpg"
+  },
+  {
+    "id": "Soraka",
+    "name": "Soraka",
+    "title": "Tinh Nữ",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2265,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Soraka_0.jpg"
+  },
+  {
+    "id": "Swain",
+    "name": "Swain",
+    "title": "Nguyên Soái Noxus",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2508,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Swain_0.jpg"
+  },
+  {
+    "id": "Sylas",
+    "name": "Sylas",
+    "title": "Kẻ Phá Xiềng",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 4602,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sylas_0.jpg"
+  },
+  {
+    "id": "Syndra",
+    "name": "Syndra",
+    "title": "Nữ Chúa Bóng Tối",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 4729,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Syndra_0.jpg"
+  },
+  {
+    "id": "TahmKench",
+    "name": "Tahm Kench",
+    "title": "Thủy Quái Đại Vương",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2259,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TahmKench_0.jpg"
+  },
+  {
+    "id": "Taliyah",
+    "name": "Taliyah",
+    "title": "Phù Thủy Đá",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 2943,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Taliyah_0.jpg"
+  },
+  {
+    "id": "Talon",
+    "name": "Talon",
+    "title": "Sát Thủ Bóng Đêm",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1260,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Talon_0.jpg"
+  },
+  {
+    "id": "Taric",
+    "name": "Taric",
+    "title": "Tấm Khiên Valoran",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2044,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Taric_0.jpg"
+  },
+  {
+    "id": "Teemo",
+    "name": "Teemo",
+    "title": "Trinh Sát Nhanh Nhẹn",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3783,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_0.jpg"
+  },
+  {
+    "id": "Thresh",
+    "name": "Thresh",
+    "title": "Cai Ngục Xiềng Xích",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1386,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Thresh_0.jpg"
+  },
+  {
+    "id": "Tristana",
+    "name": "Tristana",
+    "title": "Tay Súng Yordle",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1881,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tristana_0.jpg"
+  },
+  {
+    "id": "Trundle",
+    "name": "Trundle",
+    "title": "Vua Quỉ Khổng Lồ",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1342,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Trundle_0.jpg"
+  },
+  {
+    "id": "Tryndamere",
+    "name": "Tryndamere",
+    "title": "Bá Vương Man Di",
+    "rarity": "SSR",
+    "color": 16753920,
+    "atk": 4987,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_0.jpg"
+  },
+  {
+    "id": "TwistedFate",
+    "name": "Twisted Fate",
+    "title": "Thần Bài",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1567,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_0.jpg"
+  },
+  {
+    "id": "Twitch",
+    "name": "Twitch",
+    "title": "Chuột Thành Tinh",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2754,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_0.jpg"
+  },
+  {
+    "id": "Udyr",
+    "name": "Udyr",
+    "title": "Lữ Khách Tinh Linh",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2544,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Udyr_0.jpg"
+  },
+  {
+    "id": "Urgot",
+    "name": "Urgot",
+    "title": "Pháo Đài Di Động",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2401,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Urgot_0.jpg"
+  },
+  {
+    "id": "Varus",
+    "name": "Varus",
+    "title": "Mũi Tên Báo Thù",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3667,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Varus_0.jpg"
+  },
+  {
+    "id": "Vayne",
+    "name": "Vayne",
+    "title": "Thợ Săn Bóng Đêm",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2666,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vayne_0.jpg"
+  },
+  {
+    "id": "Veigar",
+    "name": "Veigar",
+    "title": "Bậc Thầy Tiểu Quỷ",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2618,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_0.jpg"
+  },
+  {
+    "id": "Velkoz",
+    "name": "Vel'Koz",
+    "title": "Con Mắt Hư Không",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1518,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Velkoz_0.jpg"
+  },
+  {
+    "id": "Vex",
+    "name": "Vex",
+    "title": "Pháp Sư Khó Chịu",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 125,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vex_0.jpg"
+  },
+  {
+    "id": "Vi",
+    "name": "Vi",
+    "title": "Cảnh Binh Piltover ",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2346,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vi_0.jpg"
+  },
+  {
+    "id": "Viego",
+    "name": "Viego",
+    "title": "Hắc Diệt Đế Vương",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 927,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viego_0.jpg"
+  },
+  {
+    "id": "Viktor",
+    "name": "Viktor",
+    "title": "Sứ Giả Của Arcane",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1422,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viktor_0.jpg"
+  },
+  {
+    "id": "Vladimir",
+    "name": "Vladimir",
+    "title": "Thần Chết Đỏ",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2179,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vladimir_0.jpg"
+  },
+  {
+    "id": "Volibear",
+    "name": "Volibear",
+    "title": "Bão Tố Cuồng Nộ",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1212,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Volibear_0.jpg"
+  },
+  {
+    "id": "Warwick",
+    "name": "Warwick",
+    "title": "Quái Thú Sổng Chuồng",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2644,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_0.jpg"
+  },
+  {
+    "id": "Xayah",
+    "name": "Xayah",
+    "title": "Cô Nàng Nổi Loạn",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3677,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xayah_0.jpg"
+  },
+  {
+    "id": "Xerath",
+    "name": "Xerath",
+    "title": "Pháp Sư Thăng Hoa",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1407,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xerath_0.jpg"
+  },
+  {
+    "id": "XinZhao",
+    "name": "Xin Zhao",
+    "title": " Tể Tướng Demacia",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3764,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/XinZhao_0.jpg"
+  },
+  {
+    "id": "Yasuo",
+    "name": "Yasuo",
+    "title": "Kẻ Bất Dung Thứ",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2806,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yasuo_0.jpg"
+  },
+  {
+    "id": "Yone",
+    "name": "Yone",
+    "title": "Kẻ Về Từ Cõi Chết",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2631,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_0.jpg"
+  },
+  {
+    "id": "Yorick",
+    "name": "Yorick",
+    "title": "Kẻ Dẫn Dắt Linh Hồn",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1100,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yorick_0.jpg"
+  },
+  {
+    "id": "Yunara",
+    "name": "Yunara",
+    "title": "Bất Phá Tín Niệm",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 2832,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yunara_0.jpg"
+  },
+  {
+    "id": "Yuumi",
+    "name": "Yuumi",
+    "title": "Cô Mèo Ma Thuật",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1700,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yuumi_0.jpg"
+  },
+  {
+    "id": "Zaahen",
+    "name": "Zaahen",
+    "title": "Bất Diệt Thần Quân",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2088,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zaahen_0.jpg"
+  },
+  {
+    "id": "Zac",
+    "name": "Zac",
+    "title": "Vũ Khí Bí Mật",
+    "rarity": "SR",
+    "color": 8388736,
+    "atk": 3339,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zac_0.jpg"
+  },
+  {
+    "id": "Zed",
+    "name": "Zed",
+    "title": "Chúa Tể Bóng Tối",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2459,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zed_0.jpg"
+  },
+  {
+    "id": "Zeri",
+    "name": "Zeri",
+    "title": "Tia Chớp Thành Zaun",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1592,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zeri_0.jpg"
+  },
+  {
+    "id": "Ziggs",
+    "name": "Ziggs",
+    "title": "Chuyên Gia Chất Nổ",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2412,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ziggs_0.jpg"
+  },
+  {
+    "id": "Zilean",
+    "name": "Zilean",
+    "title": "Giám Hộ Thời Gian",
+    "rarity": "N",
+    "color": 8421504,
+    "atk": 1291,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zilean_0.jpg"
+  },
+  {
+    "id": "Zoe",
+    "name": "Zoe",
+    "title": "Bậc Thầy Biến Ảo",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2282,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zoe_0.jpg"
+  },
+  {
+    "id": "Zyra",
+    "name": "Zyra",
+    "title": "Gai Nổi Loạn",
+    "rarity": "R",
+    "color": 255,
+    "atk": 2746,
+    "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zyra_0.jpg"
+  }
+]
