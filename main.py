@@ -5,6 +5,27 @@ import json
 from discord.ext import commands
 from dotenv import load_dotenv
 
+# --- PHẦN MỚI: GIỮ BOT SỐNG TRÊN RENDER ---
+from http.server import HTTPServer, BaseHTTPRequestHandler
+from threading import Thread
+
+class SimpleHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.end_headers()
+        self.wfile.write(b"Bot is alive!")
+
+def run_server():
+    # Render yêu cầu chạy trên port 10000 hoặc biến môi trường PORT
+    port = int(os.environ.get("PORT", 8000))
+    server_address = ('0.0.0.0', port)
+    httpd = HTTPServer(server_address, SimpleHandler)
+    print(f"🌍 Fake Web Server đang chạy port {port}")
+    httpd.serve_forever()
+
+Thread(target=run_server).start()
+# ------------------------------------------
+
 # 1. Load Token
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
@@ -12,7 +33,7 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 # 2. Cấu hình Bot
 intents = discord.Intents.default()
 intents.message_content = True
-intents.voice_states = True
+intents.voice_states = True # Quan trọng cho nhạc
 
 class MyBot(commands.Bot):
     def __init__(self):
@@ -20,31 +41,16 @@ class MyBot(commands.Bot):
 
     async def setup_hook(self):
         # Tự động tạo folder data
-        if not os.path.exists('./data'):
-            os.makedirs('./data')
-        
-        # Tự động tạo users.json
+        if not os.path.exists('./data'): os.makedirs('./data')
         if not os.path.exists('./data/users.json'):
-            with open('./data/users.json', 'w') as f:
-                json.dump({}, f)
+            with open('./data/users.json', 'w') as f: json.dump({}, f)
 
         # Load cogs
-        print("--- ⚙️ Đang tải Modules... ---")
         for filename in os.listdir('./cogs'):
             if filename.endswith('.py'):
-                try:
-                    await self.load_extension(f'cogs.{filename[:-3]}')
-                    print(f"✅ Đã tải: {filename}")
-                except Exception as e:
-                    print(f"❌ Lỗi tải {filename}: {e}")
+                await self.load_extension(f'cogs.{filename[:-3]}')
         
-        # Sync lệnh slash
-        print("--- 🔄 Đang đồng bộ lệnh... ---")
-        try:
-            synced = await self.tree.sync()
-            print(f"✅ Đã đồng bộ {len(synced)} lệnh Slash Command!")
-        except Exception as e:
-            print(f"❌ Lỗi đồng bộ: {e}")
+        await self.tree.sync()
 
     async def on_ready(self):
         print(f"--- 🚀 Bot đã online: {self.user} ---")
@@ -53,7 +59,4 @@ class MyBot(commands.Bot):
 bot = MyBot()
 
 if __name__ == "__main__":
-    if TOKEN:
-        bot.run(TOKEN)
-    else:
-        print("❌ LỖI: Chưa có Token trong file .env")
+    bot.run(TOKEN)
